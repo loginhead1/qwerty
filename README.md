@@ -4,7 +4,7 @@
 
 pkg install nodejs
 
-pkg intall nodejs-lst
+pkg intall nodejs-lts
 
 cd папка
 
@@ -18,3 +18,4 @@ sh install .sh
 cd папка
 
 sh kek.sh
+----
