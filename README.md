@@ -14,5 +14,7 @@ sh install .sh
 
 ----
 дальнейший запуск
+
 cd папка
+
 sh kek.sh
